@@ -1,3 +1,7 @@
+
+### Disclaimer
+# Due to Security Reasons all code files are not uploaded to public view
+
 ##  Introduction
 This application streamlines the workflow at Ligthouse Free Medical Clinic at Buffalo. From initial data collection to data entry to multiple systems to getting recommendations for insurance that is personalized for the patient.
 
