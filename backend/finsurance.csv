@@ -1,0 +1,54 @@
+Insurance Name,Cost,Coverage,County,Persons Covered,Income Range
+Alpha Health,25,Medicaid,Erie County,Family,0-10000
+Alpha Health,43,NY State of Health Essential Plan,Niagara County,Parent and Child,10000-13000
+Alpha Health,70,Child Health Plus,Genesee County,Individual,15000-20000
+Alpha Health,50,Medicare,Wyoming County,Couple,14999-25000
+Alpha Health,156,NYC Care,Chautauqua County,Child Only,25000-50000
+Beta Care,28,Medicaid,Wyoming County,Individual,0-10000
+Beta Care,177,NYC Care,Erie County,Couple,25000-50000
+Gamma Assurance,46,NY State of Health Essential Plan,Chautauqua County,Parent and Child,10000-13000
+Gamma Assurance,60,Medicare,Cattaraugus County,Family,14999-25000
+Gamma Assurance,76,Child Health Plus,Erie County,Individual,15000-20000
+Delta Shield,30,Medicaid,Niagara County,Individual,0-10000
+Delta Shield,56,Medicare,Erie County,Parent and Child,14999-25000
+Delta Shield,188,NYC Care,Genesee County,Individual,25000-50000
+Epsilon Mutual,32,Medicaid,Genesee County,Family,0-10000
+Epsilon Mutual,36,NY State of Health Essential Plan,Chautauqua County,Couple,10000-13000
+Zeta Coverage,73,Child Health Plus,Cattaraugus County,Individual,15000-20000
+Zeta Coverage,163,NYC Care,Wyoming County,Child Only,25000-50000
+Eta Insurance,34,Medicare,Erie County,Couple,14999-25000
+Eta Insurance,21,Medicaid,Niagara County,Individual,0-10000
+Theta Health,65,NY State of Health Essential Plan,Genesee County,Individual,10000-13000
+Theta Health,53,Medicare,Wyoming County,Parent and Child,14999-25000
+Iota Care,189,NYC Care,Chautauqua County,Child Only,25000-50000
+Iota Care,76,Child Health Plus,Cattaraugus County,Individual,15000-20000
+Kappa Assurance,33,Medicaid,Erie County,Individual,0-10000
+Kappa Assurance,76,NY State of Health Essential Plan,Niagara County,Couple,10000-13000
+Lambda Shield,43,Medicare,Genesee County,Parent and Child,14999-25000
+Lambda Shield,178,NYC Care,Chautauqua County,Individual,25000-50000
+Mu Mutual,44,NY State of Health Essential Plan,Cattaraugus County,Individual,10000-13000
+Mu Mutual,35,Medicaid,Erie County,Couple,0-10000
+Nu Coverage,77,Child Health Plus,Niagara County,Couple,15000-20000
+Nu Coverage,188,NYC Care,Wyoming County,Individual,25000-50000
+Xi Insurance,37,Medicaid,Erie County,Individual,0-10000
+Xi Insurance,65,Medicare,Genesee County,Parent and Child,14999-25000
+Omicron Health,56,NY State of Health Essential Plan,Cattaraugus County,Family,10000-13000
+Omicron Health,42,Medicaid,Chautauqua County,Couple,0-10000
+Pi Care,190,NYC Care,Niagara County,Individual,25000-50000
+Pi Care,80,Child Health Plus,Erie County,Child Only,15000-20000
+Rho Assurance,66,Medicare,Genesee County,Family,14999-25000
+Rho Assurance,44,NY State of Health Essential Plan,Wyoming County,Couple,10000-13000
+Sigma Shield,33,Medicaid,Chautauqua County,Individual,0-10000
+Sigma Shield,76,Medicare,Cattaraugus County,Parent and Child,14999-25000
+Tau Mutual,188,NYC Care,Erie County,Parent and Child,25000-50000
+Tau Mutual,72,Child Health Plus,Niagara County,Individual,15000-20000
+Upsilon Coverage,35,Medicaid,Genesee County,Individual,0-10000
+Upsilon Coverage,190,NYC Care,Chautauqua County,Child Only,25000-50000
+Phi Insurance,55,NY State of Health Essential Plan,Cattaraugus County,Couple,10000-13000
+Phi Insurance,65,Medicare,Erie County,Family,14999-25000
+Chi Health,74,Child Health Plus,Niagara County,Individual,15000-20000
+Chi Health,31,Medicaid,Genesee County,Parent and Child,0-10000
+Psi Care,88,NY State of Health Essential Plan,Wyoming County,Parent and Child,10000-13000
+Psi Care,78,Child Health Plus,Erie County,Individual,15000-20000
+Omega Assurance,82,Medicare,Chautauqua County,Individual,14999-25000
+Omega Assurance,65,NY State of Health Essential Plan,Cattaraugus County,Couple,10000-13000
